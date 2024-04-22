@@ -80,6 +80,4 @@ GET /cripto/1
 
 This project utilizes the CoinMarketCap Pro API to fetch cryptocurrency data. Special thanks to the CoinMarketCap team for providing this service.
 
----
 
-Feel free to expand upon or customize this README to better fit your project's needs!
