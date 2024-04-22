@@ -1,7 +1,5 @@
 
 
----
-
 # FastAPI Crypto Backend
 
 This FastAPI backend serves as a simple API for retrieving information about cryptocurrencies using the Pro API provided by CoinMarketCap.
