@@ -1,4 +1,4 @@
-Sure, here's a simple README for your FastAPI project:
+
 
 ---
 
